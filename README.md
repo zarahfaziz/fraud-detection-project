@@ -7,6 +7,8 @@ Data Source: [Fraud Detection at self-checkout in retail](https://www.kaggle.com
 
 Purpose: Build a classification framework to estimate likelihood of fraud. 
 
+Language(s): Python
+
 Methods: Machine Learning, Classification 
 
 Tools: PyCaret, Pandas 
