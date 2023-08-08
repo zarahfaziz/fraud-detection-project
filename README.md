@@ -6,7 +6,9 @@
 Data Source: [Fraud Detection at self-checkout in retail](https://www.kaggle.com/datasets/oscarm524/fraud-detection-in-grocery-shopping-transactions?resource=download)
 
 Purpose: Build a classification framework to estimate likelihood of fraud. 
+
 Methods: Machine Learning, Classification 
+
 Tools: PyCaret, Pandas 
 
 
